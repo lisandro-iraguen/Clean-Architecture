@@ -1,6 +1,5 @@
 # Clean Architecture
- Clean Architecture Implementation
- 
+
  Onion Architecture Implementation<br />
  
  1 - MediatR<br />
