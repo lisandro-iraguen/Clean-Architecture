@@ -12,3 +12,4 @@
  6 - CQRS patterns<br />
  7 - WebApi presentation layer<br />
  
+![image](https://user-images.githubusercontent.com/70443444/212477959-25a7fc9d-f8cd-4adb-9483-f946e2095025.png)
