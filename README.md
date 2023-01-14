@@ -1,6 +1,8 @@
 # Clean Architecture
 
  Onion Architecture Implementation<br />
+ https://www.codeguru.com/csharp/understanding-onion-architecture/
+ <br />
  
  1 - MediatR<br />
  2 - Fluent Validation<br />
