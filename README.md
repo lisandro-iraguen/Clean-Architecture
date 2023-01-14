@@ -8,4 +8,5 @@
  4 - AutoMapper<br />
  5 - Ardalis<br />
  6 - CQRS patterns<br />
+ 7 - WebApi presentation layer<br />
  
