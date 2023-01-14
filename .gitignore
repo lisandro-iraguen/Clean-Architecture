@@ -1,0 +1,13 @@
+.vs/
+Application/obj/
+Domain/obj/
+Persistency/obj/
+Shared/obj/
+WebAPI/bin/
+WebAPI/obj/
+Application/bin/
+Persistency/bin/
+Persistence/bin/
+Persistence/obj/
+Shared/bin/
+Domain/bin/
